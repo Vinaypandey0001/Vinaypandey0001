@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinaypandey0001
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning html,css ,js
+- 🌱 I’m currently learning HTML5 , CSS , JAVA DEVELOPEMENT
 - 💞️ I’m looking to collaborate on any website 
 - 📫 email id - vinaypandey1812@gmail.com
 - 
