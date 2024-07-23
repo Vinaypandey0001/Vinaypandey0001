@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinaypandey0001
+- 👋 Hi, I’m Vinay Kumar Pandey 
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning HTML5 , CSS , JAVA DEVELOPEMENT
 - 💞️ I’m looking to collaborate on any website 
