@@ -1,4 +1,4 @@
-![logo](https://github.com/Vinaypandey0001/Vinaypandey0001/blob/main/github-banner.png)
+![logo]https://github.com/Vinaypandey0001/Vinaypandey0001/blob/main/github%20banner.png
 
 <h1 align="center">Hi 👋, I'm Vinay Kumar Pandey</h1>
 <h3 align="center">Emerging coder embracing the intricacies of web development and Java. Seeking growth, collaboration, and meaningful contributions in the tech world.</h3>
