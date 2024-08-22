@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vinay Kumar Pandey</h1>
-<h3 align="center">Emerging coder embracing the intricacies of web development and Java. Seeking growth, collaboration, and meaningful contributions in the tech world.</h3>
+<h3 align="center">"Emerging coder focused on web development and Java, eager to grow, collaborate, and contribute in tech."</h3>
 
 <img align="right" alt= "coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
